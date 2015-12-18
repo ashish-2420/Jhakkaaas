@@ -20,5 +20,8 @@ cout << "BINGO :) "
 else 
 cout<<"BETA tumse na ho paega, tumse katai na ho paega, tumhare lakshan sahi nhi hain tumse bilkul bhi na ho paega";
  cout<"jo hona tha ho gya, :( "
+ 
+ 
+ cout<<"the first change";
 
 }
