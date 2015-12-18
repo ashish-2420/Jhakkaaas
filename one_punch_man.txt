@@ -1,0 +1,24 @@
+#include<iostream.h>
+#include<stdio.h>
+void main()
+{
+string a, string b, string c , string d;
+cout<<"Enter the dragon";
+cin>>a;
+
+cout<<"Enter the demon";
+cin>>b;
+
+cout<<"Enter the tiger"
+cin>>c;
+
+cout<<"Who is the one punch man ??";
+cin>>d;
+
+if( d=="saitama")
+cout << "BINGO :) "
+else 
+cout<<"BETA tumse na ho paega, tumse katai na ho paega, tumhare lakshan sahi nhi hain tumse bilkul bhi na ho paega";
+ cout<"jo hona tha ho gya, :( "
+
+}
